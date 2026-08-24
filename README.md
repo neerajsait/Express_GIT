@@ -1,3 +1,38 @@
+# Express GIT
+
+> Express.js backend application with RESTful APIs
+
+Built with JavaScript and focused on backend, express, javascript, nodejs.
+
+## About this project
+
+This repository is part of **Neeraj Sai's** growing collection of software projects, experiments, and learning builds. It reflects a practical, curious approach to creating useful products and understanding how they work under the hood.
+
+## Getting started
+
+Clone the repository and follow the setup instructions for the project's framework or language:
+
+```bash
+git clone https://github.com/neerajsait/Express_GIT.git
+cd Express_GIT
+```
+
+Check the project files for the available run commands and configuration requirements.
+
+## Links
+
+[Repository](https://github.com/neerajsait/Express_GIT)
+
+## Author
+
+**Tiruveedhi Neeraj Venkata Sai**
+
+- GitHub: [@neerajsait](https://github.com/neerajsait)
+- Portfolio: [neeraj's portfolio](https://github.com/neerajsait/portfoliomain)
+
+
+## Existing project documentation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
